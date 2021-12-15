@@ -14,6 +14,7 @@
 var snowStorm = (function(window, document) {
 
   // --- common properties ---
+  // updated
 
   this.autoStart = true;          // Whether the snow should start automatically or not.
   this.excludeMobile = true;      // Snow is likely to be bad news for mobile phones' CPUs (and batteries.) Enable at your own risk.

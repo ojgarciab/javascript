@@ -1,0 +1,10 @@
+[
+  {
+    mensaje: "Este es un primer mensaje de prueba",
+    error: false
+  },
+  {
+    mensaje: "Este es un segundo mensaje de prueba y con error",
+    error: true
+  }
+]
